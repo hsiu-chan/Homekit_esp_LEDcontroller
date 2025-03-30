@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "arduino_homekit_server.h": "c"
+    }
+}
